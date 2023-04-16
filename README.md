@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ankesh Kumar Pandey</h1>
+<h1 align="center">Hi 👋,</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Ankesh+Kumar+Pandey+;I+am+a+Software+Engineer+;I+am+a+MERN+Full+Stack+Web+Developer;+)](https://git.io/typing-svg)
+
+# 💫 About Me:
 <h3 align="center">A passionate frontend developer & Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankesh102&label=Profile%20views&color=0e75b6&style=flat" alt="ankesh102" /> </p>
