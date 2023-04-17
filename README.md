@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Real Time Chat APP**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, Java & Basic Web Technologies.**
+- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, JavaScript & Basic Web Technologies.**
 
 - 👯 I’m looking to collaborate on **MERN Projects $ Real Life Problems**
 
